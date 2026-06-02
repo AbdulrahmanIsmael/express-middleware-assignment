@@ -1,0 +1,26 @@
+{
+  "name": "express-middleware-assignment",
+  "version": "1.0.0",
+  "description": "Assignment for Node.js Course (covering Express basics and usage of middleware)",
+  "homepage": "https://github.com/AbdulrahmanIsmael/express-middleware-assignment#readme",
+  "bugs": {
+    "url": "https://github.com/AbdulrahmanIsmael/express-middleware-assignment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulrahmanIsmael/express-middleware-assignment.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
